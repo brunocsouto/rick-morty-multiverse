@@ -2,6 +2,7 @@
   "name": "rick-morty-multiverse",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://brunocsouto.github.io/rick-morty-multiverse",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "react": "^16.11.0",
