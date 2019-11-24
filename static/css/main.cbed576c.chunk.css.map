@@ -1,1 +1,0 @@
-{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,QACI,wBACJ,CAFA,KACI,wBACJ,CAEA,WACI,gBAAiB,CACjB,iBAAkB,CAClB,kBACJ","file":"main.cbed576c.chunk.css","sourcesContent":["body {\r\n    background-color: #636b77;\r\n}\r\n\r\n.container {\r\n    margin: 20px auto;\r\n    padding: 20px 40px;\r\n    background: #404752 ;\r\n}"]}
