@@ -20,8 +20,7 @@ import About from './pages/about/index';
 function App() {
   return (
     <div className="App">
-      <Router basename="/">
-        {/* <Header /> */}
+      <Router basename={process.env.PUBLIC_URL}>
         <header>
             <Navbar collapseOnSelect expand="lg" variant="dark" className="navbar">
                 <Navbar.Brand>Multiverse</Navbar.Brand>
