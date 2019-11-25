@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/rick-morty-multiverse/static/css/main.8213324f.chunk.css",
-    "main.js": "/rick-morty-multiverse/static/js/main.25a920d2.chunk.js",
-    "main.js.map": "/rick-morty-multiverse/static/js/main.25a920d2.chunk.js.map",
+    "main.js": "/rick-morty-multiverse/static/js/main.efca2e06.chunk.js",
+    "main.js.map": "/rick-morty-multiverse/static/js/main.efca2e06.chunk.js.map",
     "runtime-main.js": "/rick-morty-multiverse/static/js/runtime-main.c93d8558.js",
     "runtime-main.js.map": "/rick-morty-multiverse/static/js/runtime-main.c93d8558.js.map",
     "static/css/2.510409cd.chunk.css": "/rick-morty-multiverse/static/css/2.510409cd.chunk.css",
-    "static/js/2.87bf342e.chunk.js": "/rick-morty-multiverse/static/js/2.87bf342e.chunk.js",
-    "static/js/2.87bf342e.chunk.js.map": "/rick-morty-multiverse/static/js/2.87bf342e.chunk.js.map",
+    "static/js/2.2514b5f9.chunk.js": "/rick-morty-multiverse/static/js/2.2514b5f9.chunk.js",
+    "static/js/2.2514b5f9.chunk.js.map": "/rick-morty-multiverse/static/js/2.2514b5f9.chunk.js.map",
     "index.html": "/rick-morty-multiverse/index.html",
-    "precache-manifest.4f3b0e95278857ffe64aeb8530604a52.js": "/rick-morty-multiverse/precache-manifest.4f3b0e95278857ffe64aeb8530604a52.js",
+    "precache-manifest.e852c36eee28db25ee541a211f7870cc.js": "/rick-morty-multiverse/precache-manifest.e852c36eee28db25ee541a211f7870cc.js",
     "service-worker.js": "/rick-morty-multiverse/service-worker.js",
     "static/css/2.510409cd.chunk.css.map": "/rick-morty-multiverse/static/css/2.510409cd.chunk.css.map",
     "static/css/main.8213324f.chunk.css.map": "/rick-morty-multiverse/static/css/main.8213324f.chunk.css.map"
@@ -17,8 +17,8 @@
   "entrypoints": [
     "static/js/runtime-main.c93d8558.js",
     "static/css/2.510409cd.chunk.css",
-    "static/js/2.87bf342e.chunk.js",
+    "static/js/2.2514b5f9.chunk.js",
     "static/css/main.8213324f.chunk.css",
-    "static/js/main.25a920d2.chunk.js"
+    "static/js/main.efca2e06.chunk.js"
   ]
 }
