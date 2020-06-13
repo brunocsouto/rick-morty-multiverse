@@ -14,37 +14,7 @@ p {
   margin: 0;
 }
 
-main {
-  padding-left: 1em;
-  padding-right: 1em;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-#App section ul {
-  list-style-type: none;
-  padding-left: 0;
-}
-
-#App section ul li {
-  padding: 1em 2em;
-  margin-bottom: 0.6em;
-  border: 3px solid rgb(40, 43, 46);
-  border-radius: 5px;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
-#App section ul li:hover {
-  border-width: 3px;
-  border-color: #3E8943;
-  cursor: pointer;
-  font-weight: 900;
-}
-
-#App section ul li img {
-  width: 60px;
-  height: 60px;
-  border-radius: 30px;
+a {
+  text-decoration: none;
+  color: inherit;
 }
