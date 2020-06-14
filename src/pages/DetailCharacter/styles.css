@@ -1,0 +1,49 @@
+/* #character-detail header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+} */
+
+#character-detail button {
+    padding: 0.5em 2em;
+    border-radius: 10px;
+    background-color: transparent;
+    color: #FFF;
+    border: none;
+    cursor: pointer;
+    border: 1px solid rgb(40, 43, 46);
+    outline: none;
+}
+
+#character-detail button:hover {
+    border: 1px solid #3e8943;
+    background-color: #3e894332;
+}
+
+#character-detail main {
+    margin-top: 2em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#character-detail #character-description {
+    width: inherit;
+    padding: 2em;
+}
+
+#character-detail a{
+    text-decoration: underline;
+}
+
+#character-detail .episodes-thumb {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+#character-detail .episodes-thumb button {
+    padding: 0.3em 1em;
+    margin: 0.5em;
+    font-size: 0.7em;
+}
