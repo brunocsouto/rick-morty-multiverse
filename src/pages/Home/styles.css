@@ -1,0 +1,35 @@
+#container-home {
+  padding-left: 3em;
+  padding-right: 3em;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 3em;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#container-home img {
+  width: 80%;
+}
+
+#container-home a {
+  align-self: flex-end;
+}
+
+#container-home button {
+  padding: 1em;
+  color: #fff;
+  font-weight: 700;
+  background-color: #3e8943;
+  border-radius: 8px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+#container-home button:hover {
+  opacity: 0.7;
+}
